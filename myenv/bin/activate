@@ -37,7 +37,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="/Users/shibilrahmanp/.jenkins/workspace/ai-sast-agent/myenv"
+VIRTUAL_ENV="/Users/shibilrahmanp/.jenkins/workspace/ai-sast-agent-2/myenv"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
