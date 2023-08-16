@@ -23,4 +23,4 @@ The enhanced model is published on GitHub through the Watson platform, and autom
 ## Demo Video:
 
 ## Link to any other resources:
-Mural : 
+Mural : https://github.com/shibil-rahman/SAST-AGENT/blob/master/Project%201-AI%20SAST%20Agent-Kochi-Tech%20Challenge-Cohort%202_2023-08-16_12-19-40.pdf
